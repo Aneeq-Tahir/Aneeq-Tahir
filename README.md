@@ -1,4 +1,4 @@
-### 👋 Hey Fella, It's Aneeq Tahir
+<h1 align="center">👋 Hey Fella, It's Aneeq Tahir</h1>
 
 <!--
 **Aneeq-Tahir/Aneeq-Tahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
