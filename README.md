@@ -18,6 +18,8 @@ I'm committed to delivering high-quality solutions and would be thrilled to work
 - Redux.js
 - SQL
 - Drizzle ORM
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneeq-Tahir&layout=donut&theme=onedark)](https://github.com/Aneeq-Tahir/github-readme-stats)
 <!--
 **Aneeq-Tahir/Aneeq-Tahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
