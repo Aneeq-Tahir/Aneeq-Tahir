@@ -7,7 +7,9 @@ I'm a TypeScript developer who's passionate about crafting top-notch web applica
 For managing content, I've utilized Sanity Headless CMS, allowing for dynamic and efficient content integration and management. I'm proficient in API development, with experience in  RESTful APIs and can work with GraphQL architecture. While I'm capable of working with various SQL databases, my primary experience lies in PostgreSQL.
 
 I'm committed to delivering high-quality solutions and would be thrilled to work with you to bring your projects to life
+
 <h2>Skills</h2>
+
 - TypeScript
 - React.js
 - Next.js
