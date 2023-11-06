@@ -2,7 +2,7 @@
 
 <p align="center">I am a Modern Full Stack Developer with expertise in building JAMstack web applications.</p>   
 
-I'm a TypeScript developer who's passionate about crafting top-notch web applications. I rely on Next.js, my preferred React framework, to build efficient and feature-rich websites. With the help of Tailwind CSS, I create clean and visually appealing front-end designs.
+I'm a Full Stack developer who's passionate about crafting top-notch web applications. I rely on Next.js, my preferred React framework, to build efficient and feature-rich websites. With the help of Tailwind CSS, I create clean and visually appealing front-end designs.
 
 For managing content, I've utilized Sanity Headless CMS, allowing for dynamic and efficient content integration and management. I'm proficient in API development, with experience in  RESTful APIs and can work with GraphQL architecture. While I'm capable of working with various SQL databases, my primary experience lies in PostgreSQL.
 
