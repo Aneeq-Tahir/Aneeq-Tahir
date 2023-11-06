@@ -1,6 +1,7 @@
-<h1 align="center">👋 Hey Fella, It's Aneeq Tahir</h1>
+<h1 align="center">👋 Hey Fella, I'm Aneeq Tahir</h1>
 
-I am an aspiring Full Stack Developer
+I am a Modern Full Stack Developer with expertise in building JAMstack web applications.   
+I use Next.js as my go-to React Framework. I use Tailwind CSS to build visually appealing Front-end of the website.I have worked with Sanity Headless CMS to dynamically add content to the website. I can develop APIs supporting RESTful specification. I can also work with GraphQL architecture. Although i can work with any SQL database but I have experience in PostGresQL
 <!--
 **Aneeq-Tahir/Aneeq-Tahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
