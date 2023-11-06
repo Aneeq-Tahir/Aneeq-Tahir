@@ -14,6 +14,7 @@ I'm committed to delivering high-quality solutions and would be thrilled to work
 - React.js
 - Next.js
 - Tailwind CSS
+- Sanity CMS
 - Redux.js
 - SQL
 - Drizzle ORM
